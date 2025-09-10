@@ -12,7 +12,7 @@ API de leitura sobre o Elasticsearch com dois endpoints:
 
 ---
 
-## ✔️ Pré-requisitos
+## Pré-requisitos
 
 - Docker Desktop (ou Docker Engine + Compose)
 - Porta **5080** livre (API)
@@ -20,12 +20,14 @@ API de leitura sobre o Elasticsearch com dois endpoints:
 
 ---
 
-## 🚀 Subir os serviços
+## Subir os serviços
 
 Na raiz do projeto:
 
 ```bash
 docker compose up -d --build
+
+## APIs
 
 API: http://localhost:5080
 
