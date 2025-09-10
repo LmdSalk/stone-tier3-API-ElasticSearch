@@ -1,0 +1,11 @@
+﻿{
+  "mappings": {
+    "properties": {
+      "id":        { "type": "keyword" },
+      "client_id": { "type": "keyword" },
+      "type":      { "type": "keyword" },
+      "amount":    { "type": "double"  },
+      "createdAt": { "type": "date", "format": "strict_date_optional_time||epoch_millis" }
+    }
+  }
+}

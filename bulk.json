@@ -1,0 +1,4 @@
+﻿{ "index": {} }
+{ "id":"a1","client_id":"c1","type":"pix","amount":12.5,"createdAt":"2025-09-03T10:00:00Z" }
+{ "index": {} }
+{ "id":"a2","client_id":"c1","type":"card","amount":48.1,"createdAt":"2025-09-05T12:00:00Z" }
