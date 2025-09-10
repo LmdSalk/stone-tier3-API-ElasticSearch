@@ -26,3 +26,9 @@ Na raiz do projeto:
 
 ```bash
 docker compose up -d --build
+
+API: http://localhost:5080
+
+Swagger/OpenAPI: http://localhost:5080/docs
+
+Elasticsearch: http://localhost:9200
