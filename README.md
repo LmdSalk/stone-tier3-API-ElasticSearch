@@ -24,7 +24,6 @@ API de leitura sobre o Elasticsearch com dois endpoints:
 
 Na raiz do projeto:
 
-```bash
 docker compose up -d --build
 
 ## APIs
